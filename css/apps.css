@@ -1,0 +1,56 @@
+
+
+.screenshot {
+    height: auto;
+    width: 50%;
+    float: left;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
+.screenshot-right {
+    height: auto;
+    width: 50%;
+    float: right;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
+.pleft {
+    text-align: justify;
+    font-size: 16;
+
+}
+.pright {
+    text-align: justify;    
+
+}
+
+.gcs-h1 {
+    color: purple;  
+    text-align: right  
+}
+
+.a100b-h1 {
+    color: blue; 
+       
+}
+
+.sbhc-h1 {
+    color: #3498d2;
+    text-align: right
+}
+
+.sbhy-h1 {
+    color: #007FC4
+}
+
+.apps-div{
+    overflow: hidden;    
+    padding-bottom: 20px;
+}
+
+
+
