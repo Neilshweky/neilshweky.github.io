@@ -17,7 +17,11 @@ title: Neil Shweky
 email: nshweky@seas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Neil Shweky's Website
+<<<<<<< HEAD
 baseurl: "" # the subpath of your site, e.g. /blog
+=======
+baseurl: "/" # the subpath of your site, e.g. /blog
+>>>>>>> e6707685df047fd4e4e09a8c2f1b34fade5de7bb
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: neilshweky
 github_username:  neilshweky
